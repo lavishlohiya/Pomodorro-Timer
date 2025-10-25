@@ -32,27 +32,27 @@ No server or database — everything runs in your browser.
 
 🧠 Technologies Used
 
-HTML5 — structure
+* HTML5 — structure
 
-CSS3 — custom aesthetic design
+* CSS3 — custom aesthetic design
 
-JavaScript (ES6) — logic and interactivity
+* JavaScript (ES6) — logic and interactivity
 
-LocalStorage API — persistent data
+* LocalStorage API — persistent data
 
 🛠 How It Works
 
 When you open the page, you can:
 
-Choose between Pomodoro, Short Break, or Long Break.
+1. Choose between Pomodoro, Short Break, or Long Break.
 
-Start the timer — each second triggers a tick sound.
+2. Start the timer — each second triggers a tick sound.
 
-Add or complete tasks as you study.
+3. Add or complete tasks as you study.
 
-Switch between Gold and Red themes anytime.
+4. Switch between Gold and Red themes anytime.
 
-All progress, tasks, and settings are stored locally.
+5. All progress, tasks, and settings are stored locally.
 
 The app uses one HTML file for simplicity, keeping JavaScript inside <script> and CSS inside <style> tags for ease of deployment.
 
@@ -71,12 +71,12 @@ You can watch a short demo here:
 I created this project to combine aesthetic design and productivity using just core web technologies.
 I learned how to:
 
-Implement timers and intervals precisely in JavaScript.
+* Implement timers and intervals precisely in JavaScript.
 
-Manage app state locally without a backend.
+* Manage app state locally without a backend.
 
-Design dark-and-light UI themes that stay readable and elegant.
+* Design dark-and-light UI themes that stay readable and elegant.
 
-Use GitHub Pages for free hosting and deployment.
+* Use GitHub Pages for free hosting and deployment.
 
 This project helped me understand how simple web tools can be used to build complete, beautiful, and functional applications.
