@@ -64,7 +64,7 @@ The app is hosted for free on GitHub Pages at:
 🎥 Demo Video
 
 You can watch a short demo here:
-🎬 [YouTube link to your demo video]
+🎬 (https://youtu.be/1gHEQg96jtA)
 
 💬 Reflection
 
